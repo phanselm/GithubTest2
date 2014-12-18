@@ -1,1 +1,2 @@
 ﻿This is my new file to see if git picks it up.
+It did. Now I'm adding to the fiile but only in firstbranch.'
